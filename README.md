@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/bgheorghita/docker-react-test/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bgheorghita/docker-react-test/tree/main)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
