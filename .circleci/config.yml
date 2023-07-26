@@ -11,7 +11,7 @@ jobs:
       - run:
           name: Build Docker Image
           command: |
-            docker build -t project -f ${CIRCLE_WORKING_DIRECTORY}/../Dockerfile.dev .
+            docker build -t project -f Dockerfile.dev .
 
       - run:
           name: Run Tests
